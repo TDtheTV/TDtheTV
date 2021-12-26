@@ -1,4 +1,4 @@
-- developer and artist 🤠
+- hello 
 
 <!---
 TDtheTV/TDtheTV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
