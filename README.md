@@ -1,4 +1,4 @@
-- hello 
+- hello, I like to write code. Here you can find some!
 
 <!---
 TDtheTV/TDtheTV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
